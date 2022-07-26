@@ -1,4 +1,4 @@
-# Analisando os municipios brasileiros (por municipio)
+# Analisando os municipios brasileiros 
 Usando os pacotes pandas, numpy, seaborn, requests e BeautifulSoup, Fiz web scrapping para colher dados populacionais sobre todos os municípios do Brasil e fiz uma análise exploratória das variáveis.
 
 O site utilizado como fonte de dados foi o Wikipedia. Essa escolha se dá por conta das listas completas e atualizadas com todos os municipios do país. Os dados utilizados são referentes ao número de habitantes e Produto Interno Bruto de cada município do Brasil. Para realizar a coleta, utilizei o pacote BeautifulSoup e usei a tag html da página do wikipedia.
